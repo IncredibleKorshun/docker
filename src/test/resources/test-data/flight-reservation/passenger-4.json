@@ -1,0 +1,11 @@
+{
+  "firstname": "dr",
+  "lastname": "Dre",
+  "email":"dr@gmail.com",
+  "password": "mj",
+  "street": "4444 main street",
+  "city": "NY",
+  "zip": "44331",
+  "passengersCount": "4",
+  "expectedPrice": "$2338 USD"
+}

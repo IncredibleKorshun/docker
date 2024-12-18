@@ -1,0 +1,11 @@
+{
+  "firstname": "Yo",
+  "lastname": "Uoooo",
+  "email":"yo@gmail.com",
+  "password": "mj",
+  "street": "3333 main street",
+  "city": "Jersey",
+  "zip": "33331",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}
